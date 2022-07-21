@@ -7,7 +7,6 @@ public class HelloWorld {
 		String a="learn pull";
 		int a = 9;
 		int b =5;
-		String b ="git push";
 		System.out.println("to learn pull"); // manually add 
 
 	}
