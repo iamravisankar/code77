@@ -5,7 +5,7 @@ public class NewClass {
 	 String name = "manoj";
 	 String name2 = "ramesh";
 
-
+         int num = 1;
 
 	String name3 = "Karthik";
 
