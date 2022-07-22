@@ -6,7 +6,7 @@ public class VariableDeclare {
 		// TODO Auto-generated method stub
 		// Here, i am declaring variable  
 		String name1 = "Khan";
-		int age = 50;
+		int age = 25;
 		float height = 5.9f;
 		char bloodGroup ='O';
 		boolean workingProf = true;
