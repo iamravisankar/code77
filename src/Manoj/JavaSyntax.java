@@ -1,7 +1,6 @@
 package Manoj;
 
 public class JavaSyntax {
-
 	public static void main(String[] args) {
 		// The Println() Method
 		System.out.println("Welcome to Java Class");
