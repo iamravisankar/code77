@@ -10,9 +10,9 @@ public class DataBase {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		DataBase input = new DataBase(34, "priya");
-		System.out.println("NAME : " + input.name1);
-		System.out.println("HT : " + input.ht1);
+		DataBase hu = new DataBase(34, "priya");
+		System.out.println("NAME : " + hu.name1);
+		System.out.println("HT : " + hu.ht1);
 	}
 
 }
