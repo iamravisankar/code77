@@ -12,7 +12,7 @@ public class VariableDeclare {
 		boolean workingProf = true;
 		// i am changing variable values 
 		name1 = " Ramesh ";
-		age = 40;
+		age = 30;
 		height = 6.2f;
 		bloodGroup ='A';
 		String name2 = "Kannan";
