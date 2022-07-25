@@ -2,10 +2,6 @@ package priya;
 
 public class IfelseJava {
 
-	package priya;
-
-	public class JavaIfelse {
-
 		public static void main(String[] args) {
 
 			System.out.println("Enter the marks obtained: ");
