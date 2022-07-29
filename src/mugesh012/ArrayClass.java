@@ -15,5 +15,6 @@ public class ArrayClass {
 		return "ArrayClass [name=" + name + ", age=" + age + ", isMale=" + isMale + "]";
 	}
 	
+	
 
 }
