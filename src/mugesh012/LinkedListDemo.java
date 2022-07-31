@@ -15,7 +15,7 @@ public class LinkedListDemo {
 		myNumber.add(20);
 		myNumber.add(22);
 		System.out.println(myNumber);
-		// remove method in linkedlist
+		// remove method in linkedlists
 		myNumber.removeFirst();
 		myNumber.removeLast();
 		// add method in linkedlist
