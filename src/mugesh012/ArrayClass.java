@@ -13,7 +13,6 @@ public class ArrayClass {
 	@Override
 	public String toString() {
 		return "ArrayClass [name=" + name + ", age=" + age + ", isMale=" + isMale + "]";
-	}
-	
+	}	
 
 }
