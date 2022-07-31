@@ -2,9 +2,11 @@ package priya;
 
 public class IfelseJava {
 
-		public static void main(String[] args) {
 
-			System.out.println("Enter the marks obtained: ");
+public static void main(String[] args) {
+System.out.println("Enter the marks obtained: ");
+
+
 			int mark = 90;
 
 			if (mark < 50) {
@@ -44,3 +46,4 @@ public class IfelseJava {
 			}
 		}
 	}
+
