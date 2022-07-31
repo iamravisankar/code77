@@ -2,8 +2,10 @@ package priya;
 
 public class IfelseJava {
 
+
 public static void main(String[] args) {
 System.out.println("Enter the marks obtained: ");
+
 
 			int mark = 90;
 
