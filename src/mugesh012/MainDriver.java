@@ -11,6 +11,7 @@ public class MainDriver {
 		myDetails.add(new ArrayClass("mugesh",26,true));
 		myDetails.add(new ArrayClass("mugesh",26,true));
 		System.out.println(myDetails);
+
 	}
 
 }
